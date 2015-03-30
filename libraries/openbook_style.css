@@ -1,0 +1,44 @@
+
+span.openbook_wrapper1 {
+	clear:both;
+}
+
+span.openbook_wrapper3 {
+	text-align: center;
+}
+
+span.openbook_cover1 {
+	float:left;
+	padding-right:10px;
+	padding-bottom:10px;
+}
+
+span.openbook_cover2 {
+	float:left;
+	padding-right:5px;
+	padding-bottom:5px;
+}
+
+span.openbook_cover3 {
+	display: block;
+}
+
+span.openbook_title1 {
+	font-size:115%;
+	font-weight:bold;
+	display: block;
+}
+
+span.openbook_title2 {
+	font-weight:bold;
+}
+
+span.openbook_author1 {
+	font-size:90%;
+	display: block;
+}
+
+span.openbook_links1 {
+	font-size:65%;
+	display: block;
+}
